@@ -4,7 +4,7 @@ import { CheckCircle } from '@mui/icons-material';
 
 import { demoProfilePicture } from '../Utilities/constants';
 import { Link } from 'react-router-dom';
-
+// testing
 const ChannelCard = ({ channelDetail, marginTop}) => {
   console.log(channelDetail)
   return (
